@@ -1,0 +1,20 @@
+[
+  {
+    "rating": "4",
+    "comment": "Bon travail!\n",
+    "author": "Willow Rosenberg",
+    "reviewedPartnerId": "b8d9e0f1-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+    "date": "2025-01-05",
+    "id": "a753055b-dd5d-448a-bff9-5e3c3d55a324",
+    "likes": 7
+  },
+  {
+    "rating": "5",
+    "comment": "Tout est relatif...sauf cete note!",
+    "author": "Albert Einstein",
+    "reviewedPartnerId": "ff4df1b4-3bbd-4a79-b5a8-1dd5a6ab6703",
+    "date": "2025-01-05",
+    "id": "e911a31e-919e-4171-ab3f-1886d1d0e65a",
+    "likes": 1
+  }
+]

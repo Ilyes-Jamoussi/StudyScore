@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b8d9e0f1-2a3b-4c5d-6e7f-8g9h0i1j2k3l",
+    "firstName": "Henry",
+    "lastName": "McCoy",
+    "school": "École Xavier pour jeunes surdoués",
+    "program": "Mathématiques"
+  },
+  {
+    "firstName": "Ilyes",
+    "lastName": "Jamoussi",
+    "program": "Genie Logiciel",
+    "school": "Académie de Starfleet",
+    "id": "ff4df1b4-3bbd-4a79-b5a8-1dd5a6ab6703"
+  }
+]
