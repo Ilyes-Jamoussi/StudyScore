@@ -33,7 +33,7 @@ You can deploy a local dynamic server using Node.js. If you run the `npm start` 
 
 ## Tests
 
-For more information about the tests associated with this project, refer to the [TESTS.md](./TESTS.md) file.
+For more information about the tests associated with this project, refer to the [tests](.server/tests) folder.
 
 ---
 
@@ -67,7 +67,7 @@ Vous pouvez faire un déploiement local de votre serveur dynamique utilisant Nod
 
 ## Tests
 
-Pour en savoir plus sur les tests associés à ce projet, consultez le fichier  [TESTS.md](./TESTS.md).
+Pour en savoir plus sur les tests associés à ce projet, consultez le dossier [tests](./server/tests).
 
 
 
