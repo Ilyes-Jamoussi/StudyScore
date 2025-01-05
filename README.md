@@ -13,7 +13,7 @@
 StudyScore is an interactive web application that allows students to evaluate and share constructive feedback on their lab partners, offering a dynamic system for ratings and feedback. Designed for student communities worldwide, this platform makes it easy to add new partners for evaluation, fostering transparent and constructive academic collaboration.
 
 <div align="center">
-    <img src="demo.gif" alt="Tetris Game Demo" width="450"><br><br>
+    <img src="demo.gif" alt="Tetris Game Demo" width="700"><br><br>
 </div>
 This application uses a dynamic server built with Node.js and Express, along with an interactive front-end.
 
@@ -45,7 +45,7 @@ For more information about the tests associated with this project, refer to the 
 StudyScore est une application web interactive qui permet aux étudiants d’évaluer et de partager des commentaires constructifs sur leurs partenaires de laboratoires, offrant ainsi un système dynamique de notation et de rétroaction. Conçue pour les communautés étudiantes du monde entier, cette plateforme facilite l’ajout de nouveaux partenaires à évaluer, favorisant une collaboration académique transparente et constructive.
 
 <div align="center">
-    <img src="demo.gif" alt="Tetris Game Demo" width="450"><br><br>
+    <img src="demo.gif" alt="Tetris Game Demo" width="700"><br><br>
 </div>
 Cette application utilise un serveur dynamique construit avec Node.js et Express, ainsi qu’un front-end interactif.
 
